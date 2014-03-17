@@ -43,8 +43,9 @@ RUN /bin/bash -lc 'cd /var/www/bazforge.com; bundle'
 RUN /bin/bash -lc 'cd /var/www/bazforge.com; jekyll build'
 
 # Add Flickr API key
-RUN FLICKR_API_KEY=$(/bin/cat ~/.api-keys/bazforge.com-flickr)
-RUN /bin/sed -ie "s/dummy_key/$FLICKR_API_KEY/g" _config.yml
+ADD .docker/keys/bazforge.com-flickr bazforge.com-flickr
+RUN FLICKR_API_KEY=$(/bin/cat bazforge.com-flickr)
+RUN /bin/sed -ie "s/dummy_key/$FLICKR_API_KEY/g" /var/www/bazforge.com/_config.yml
 
 ADD .docker/nginx-bazforge.com /etc/nginx/sites-available/bazforge.com
 RUN /bin/bash -c '/bin/ln -s /etc/nginx/sites-available/bazforge.com /etc/nginx/sites-enabled/bazforge.com'
