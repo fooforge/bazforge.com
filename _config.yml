@@ -24,3 +24,6 @@ version:          0.1.0
 
 github:
   repo:           https://github.com/fooforge/bazforge.com
+
+flickr:
+  api_key: dummy_key

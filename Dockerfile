@@ -42,6 +42,10 @@ RUN /usr/bin/git clone https://github.com/fooforge/bazforge.com.git /var/www/baz
 RUN /bin/bash -lc 'cd /var/www/bazforge.com; bundle'
 RUN /bin/bash -lc 'cd /var/www/bazforge.com; jekyll build'
 
+# Add Flickr API key
+RUN FLICKR_API_KEY=$(/bin/cat ~/.api-keys/bazforge.com-flickr)
+RUN /bin/sed -ie "s/dummy_key/$FLICKR_API_KEY/g" _config.yml
+
 ADD .docker/nginx-bazforge.com /etc/nginx/sites-available/bazforge.com
 RUN /bin/bash -c '/bin/ln -s /etc/nginx/sites-available/bazforge.com /etc/nginx/sites-enabled/bazforge.com'
 
