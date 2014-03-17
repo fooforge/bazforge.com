@@ -1,5 +1,5 @@
 server {
-  listen 8002;
+  listen 80;
   root /var/www/bazforge.com/_site;
   index index.html;
 

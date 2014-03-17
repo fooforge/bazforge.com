@@ -1,0 +1,26 @@
+encoding: utf-8
+
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            bazforge
+tagline:          'UTC+2 based dog owner & gamer'
+description:      '"Where no turtle has gone before!"'
+url:              http://bazforge.com
+
+author:
+  name:           'Mike Adolphs'
+  url:            https://twitter.com/fooforge
+
+paginate:         10
+
+# Custom vars
+version:          0.1.0
+
+github:
+  repo:           https://github.com/fooforge/bazforge.com

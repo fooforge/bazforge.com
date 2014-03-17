@@ -32,13 +32,13 @@ RUN echo 'gem: --no-rdoc --no-ri' >> /.gemrc
 RUN /bin/bash -lc 'gem install bundler'
 
 # Install nginx
-RUN /usr/bin/apt-get install -qy nginx 
+RUN /usr/bin/apt-get install -qy nginx
 RUN /bin/echo "daemon off;" >> /etc/nginx/nginx.conf
 
-EXPOSE 8002
+EXPOSE 80
 
 # Clone and build bazforge.com
-RUN /usr/bin/git clone https://github.com/fooforge/fooforge.com.git /var/www/bazforge.com/
+RUN /usr/bin/git clone https://github.com/fooforge/bazforge.com.git /var/www/bazforge.com/
 RUN /bin/bash -lc 'cd /var/www/bazforge.com; bundle'
 RUN /bin/bash -lc 'cd /var/www/bazforge.com; jekyll build'
 
@@ -46,4 +46,3 @@ ADD .docker/nginx-bazforge.com /etc/nginx/sites-available/bazforge.com
 RUN /bin/bash -c '/bin/ln -s /etc/nginx/sites-available/bazforge.com /etc/nginx/sites-enabled/bazforge.com'
 
 CMD service nginx start
-
