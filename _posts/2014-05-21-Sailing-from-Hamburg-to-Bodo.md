@@ -40,3 +40,9 @@ categories: vacation
 * Kristiansand, NO
 * Stavanger, NO
 * Lots of interesting watches (near miss, communication with other vessels)
+
+### Saturday, May 17th
+
+* Open sea, storm, 5-6m waves
+* Night watch, steered the ship for a while
+* Fock sail got hooked to the rig, had to make it loose again in the rigging.
