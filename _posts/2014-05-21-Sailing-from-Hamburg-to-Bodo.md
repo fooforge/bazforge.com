@@ -46,3 +46,9 @@ categories: vacation
 * Open sea, storm, 5-6m waves
 * Night watch, steered the ship for a while
 * Fock sail got hooked to the rig, had to make it loose again in the rigging.
+
+### Sunday, May 18th
+
+* Open sea, storm, 5-6m waves
+* Pilot wales!
+* Got better during the evening after roughly 48 hours of constant shaking.
