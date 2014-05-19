@@ -18,3 +18,9 @@ categories: vacation
 * Had to wait for a few hours on the Elbe to be allowed to enter the Nord-Ostsee-Kanal
 * Passed the Nord-Ostsee-Kanal in roughly 6 to 8 hours, saw the train and Autobahn bridges, a shipyard and huge vessels
 * At around 5pm we've left the Nord-Ostsee-Kanal and set sail in the Kieler Foerde
+* Was allowed to take over the steering wheel for an hour while leaving the Kieler Foerde
+
+### Tuesday, May 13th
+
+* Baltic Sea, Denmark
+* First round of watches (a 2 hours watch every 8 hours)
