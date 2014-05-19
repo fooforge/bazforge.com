@@ -52,3 +52,8 @@ categories: vacation
 * Open sea, storm, 5-6m waves
 * Pilot wales!
 * Got better during the evening after roughly 48 hours of constant shaking.
+
+### Monday, May 19th
+
+* Torghatten
+* ...
