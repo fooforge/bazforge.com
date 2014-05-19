@@ -24,3 +24,8 @@ categories: vacation
 
 * Baltic Sea, Denmark
 * First round of watches (a 2 hours watch every 8 hours)
+
+### Wednesday, May 14th
+
+* Baltic Sea, Denmark
+* Watching, sleeping, eating, watching, sleeping, eating, ...
