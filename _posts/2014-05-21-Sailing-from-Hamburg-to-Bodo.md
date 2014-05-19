@@ -29,3 +29,8 @@ categories: vacation
 
 * Baltic Sea, Denmark
 * Watching, sleeping, eating, watching, sleeping, eating, ...
+
+### Thursday, May 15th
+
+* Kattegat -> Skagerrak
+* Watching, sleeping, eating, watching, sleeping, eating, ...
