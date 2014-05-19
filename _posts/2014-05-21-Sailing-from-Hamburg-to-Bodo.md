@@ -34,3 +34,9 @@ categories: vacation
 
 * Kattegat -> Skagerrak
 * Watching, sleeping, eating, watching, sleeping, eating, ...
+
+### Friday, May 16th
+
+* Kristiansand, NO
+* Stavanger, NO
+* Lots of interesting watches (near miss, communication with other vessels)
