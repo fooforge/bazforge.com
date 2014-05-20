@@ -55,7 +55,7 @@ categories: vacation
 
 ### Monday, May 19th
 
-* Torghatten
+* Visited Torghatten
 * Captain's Diner in the evening, followed by the Holland Fjord
 * Stood up at around 2 pm again for the sunrise
 
@@ -63,3 +63,8 @@ categories: vacation
 
 * Tour to the glacier in the Holland Fjord (15km, 90 stories, 5 hours)
 * Last evening on the ship, arrival in Bodø
+
+### Wednesday, May 21st
+
+* Leaving the ship
+* Checking in at the Raddison
