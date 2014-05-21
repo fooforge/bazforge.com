@@ -68,3 +68,4 @@ categories: vacation
 
 * Leaving the ship
 * Checking in at the Raddison
+* Hanging out at Bjørk ruining their WiFi
