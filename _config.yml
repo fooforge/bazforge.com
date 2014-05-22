@@ -10,7 +10,7 @@ permalink:        pretty
 # Setup
 title:            bazforge
 tagline:          'UTC+2 based dog owner & gamer'
-description:      '"Where no turtle has gone before!"'
+description:      'idkfa iddqd'
 url:              http://bazforge.com
 
 author:
@@ -20,10 +20,32 @@ author:
 paginate:         10
 
 # Custom vars
-version:          0.1.0
+version:          0.2.0
 
 github:
   repo:           https://github.com/fooforge/bazforge.com
 
 flickr:
   api_key: dummy_key
+
+picture:
+  source: "public/img/_original"
+  output: "public/img"
+  markup: "picturefill"
+  presets:
+    default:
+      ppi: [1]
+      attr:
+        class: "default-img"
+        itemprop: "image"
+      source_large:
+        media: "(min-width: 50em)"
+        width: "800"
+      source_medium:
+        media: "(min-width: 25em)"
+        width: "400"
+      source_small:
+        media: "(min-width: 12.5em)"
+        width: "200"
+      source_default:
+        width: "1000"

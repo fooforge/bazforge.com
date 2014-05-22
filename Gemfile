@@ -9,3 +9,6 @@ gem 'rdiscount'
 # Flickr plugin dependencies
 gem 'nokogiri'
 gem 'typhoeus'
+
+# Responsive images
+gem 'mini_magick'
