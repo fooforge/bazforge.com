@@ -28,7 +28,7 @@ The exact route (1257 nautical miles) was:
 
 > Hamburg, Germany -> Kiel Canal -> Kattegat -> Skagerrak -> North Sea -> Bergen -> Norwegian Sea -> Holandsfjord -> Bodø, Norway
 
-<div align="center"><script src="https://embed.github.com/view/geojson/fooforge/bazforge.com/post-sailing-from-hamburg-to-bodo/public/gps_antigua_hamburg_bodo_2014.geojson"></script><p><small>Thanks for tracking, @rubiojr!</small></p></div>
+<div align="center"><script src="https://embed.github.com/view/geojson/fooforge/bazforge.com/master/public/gps_antigua_hamburg_bodo_2014.geojson"></script><p><small>Thanks for tracking, @rubiojr!</small></p></div>
 
 Since the wind forecast predicted NW wind conditions for the first few days the captain decided to skip sailing the North Sea and opted in for the Baltic Sea route instead by traversing the Kiel Canal. Initially, we've been a little bummed to hear that as it takes almost half a day to pass the canal, but it was all forgotten when we hoisted the sails late afternoon on the same day after leaving the Kieler Foerde.
 
