@@ -28,6 +28,21 @@ github:
 flickr:
   api_key: dummy_key
 
+image:
+  source: "public/img/_original"
+  output: "public/img"
+  presets:
+    thumbnail:
+      attr:
+        class: "thumbnail-img"
+        itemprop: "image"
+      width: "200"
+    thumbnail-large:
+      attr:
+        class: "thumbnail-large-img"
+        itemprop: "image"
+      width: "350"
+
 picture:
   source: "public/img/_original"
   output: "public/img"
