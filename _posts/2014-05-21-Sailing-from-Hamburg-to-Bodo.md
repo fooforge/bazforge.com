@@ -16,13 +16,13 @@ I've learned a lot about the Oceans (*tl;dr: They're huge!*), about sailing a ta
 {% image thumbnail-large antigua_2014-holandfjord.jpg style="float: left; margin-right: 25px;" %}
 
 [The Antigua](http://www.tallship-antigua.com/home-en/) is a three-masted [barquentine](http://en.wikipedia.org/wiki/Barquentine) built in the UK in 1957. She's roughly 50 meters long, 32 meters high and weights 212 tons. With [optimal sailing conditions](http://www.tallship-antigua.com/technical-data/) she makes 9 knots, by motoring approximately 7. The ship is mainly operating in northern Europe. More specifically she's touring [Svalbard](http://en.wikipedia.org/wiki/Svalbard) for several months during the arctic summer, allowing people to observe polar bears, wales and other animals of the Arctic.  
-Its crew consists of seven people. Three of them (the captain, the first mate and an experienced sailor/sailoress) operate the ship in eight and four hour shifts. The remaining four are the cook and three waitpersons, working in eight hour shifts. Guests are encouraged to help operating the ship, most notably helping to hoist or lower the sails and to take over watches.
+Its crew consists of seven people. Three of them (the captain, the first mate and an experienced sailor/sailoress) operate the ship in eight and four hour shifts. The remaining four are the cook and three waitpersons, working in eight hour shifts. Guests are encouraged to help operating the ship, most notably helping to hoist or lower the sails and to help out with the watches.
 
 <div align="center"><iframe src="//instagram.com/p/oDNzEwqkcQ/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe></div>
 
 ### The route
 
-As the Antigua had to be transferred up to Svalbard the trip we've booked wasn't exactly a cruise, but more of a sailing trip to collect seamiles. We've been sailing 24 hours a day and made only two stops at the very end of the trip due to the good wind conditions we've had after entering the Norwegian Sea.
+As the Antigua had to be transferred up to Svalbard the trip we've booked wasn't exactly a cruise, but more of a sailing trip to collect sea miles. We've been sailing 24 hours a day and made only two stops at the very end of the trip due to the good wind conditions we've had after entering the Norwegian Sea.
 
 The exact route (1257 nautical miles) was:
 
