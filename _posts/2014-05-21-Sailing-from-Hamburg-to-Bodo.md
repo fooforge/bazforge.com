@@ -7,14 +7,15 @@ categories: vacation
 
 {% image thumbnail-large antigua_2014-baltic-sea.jpg style="float: right; margin-left: 25px;" %}
 
-For the past ten days I've been traveling with the Antigua, a dutch tall ship sailing from Hamburg, Germany to Bodø, Norway together with my good friend [@rubiojr](http://rubiojr.rbel.co/) from Barcelona, Spain. We've traveled 2328 kilometers and to cut it short, I had a blast!  
+For the past ten days I've been traveling with the Antigua, a dutch tall ship sailing from Hamburg, Germany to Bodø, Norway together with my good friend [@rubiojr](http://rubiojr.rbel.co/) from Barcelona, Spain. We've traveled 2328 kilometers and to cut it short, I had a blast!
+
 I've learned a lot about the Oceans (*tl;dr: They're huge!*), about sailing a tall ship, I've been climbing the [Torghatten](http://en.wikipedia.org/wiki/Torghatten) and touched the [Engabreen glacier](http://en.wikipedia.org/wiki/Engabreen). I can nothing but highly recommend to hop on a non-cruise ship for a while for gaining new insights and to completely disconnect from the rest of the world.
 
 ### The Antigua
 
 {% image thumbnail-large antigua_2014-holandfjord.jpg style="float: left; margin-right: 25px;" %}
 
-[The Antigua](http://www.tallship-antigua.com/home-en/) is a three-masted [barquentine](http://en.wikipedia.org/wiki/Barquentine) built in 1957 in the UK. She's roughly 50 meters long, 32 meters high and weights 212 tons. With [optimal sailing conditions](http://www.tallship-antigua.com/technical-data/) she makes 9 knots, by motoring approximately 7. The ship is mainly operating in northern Europe. More specifically she's touring [Svalbard](http://en.wikipedia.org/wiki/Svalbard) for several months during the arctic summer, allowing people to observe polar bears, wales and other animals of the Arctic.  
+[The Antigua](http://www.tallship-antigua.com/home-en/) is a three-masted [barquentine](http://en.wikipedia.org/wiki/Barquentine) built in the UK in 1957. She's roughly 50 meters long, 32 meters high and weights 212 tons. With [optimal sailing conditions](http://www.tallship-antigua.com/technical-data/) she makes 9 knots, by motoring approximately 7. The ship is mainly operating in northern Europe. More specifically she's touring [Svalbard](http://en.wikipedia.org/wiki/Svalbard) for several months during the arctic summer, allowing people to observe polar bears, wales and other animals of the Arctic.  
 Its crew consists of seven people. Three of them (the captain, the first mate and an experienced sailor/sailoress) operate the ship in eight and four hour shifts. The remaining four are the cook and three waitpersons, working in eight hour shifts. Guests are encouraged to help operating the ship, most notably helping to hoist or lower the sails and to take over watches.
 
 <div align="center"><iframe src="//instagram.com/p/oDNzEwqkcQ/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe></div>
