@@ -71,3 +71,5 @@ From the Wikipedia article about [Torghatten](http://en.wikipedia.org/wiki/Torgh
 ### Additional footage
 
 There're a couple dozen pictures [on flickr](https://www.flickr.com/photos/fooforge/sets/72157644723309186/) with impressions from various stages of our journey. A few more photos can be found [on Instagram](http://instagram.com/bazforge). Once @rubiojr has finished processing and uploading his GoPro footage I'm also going to provide links to his pictures and videos.
+
+**Update:** @rubiojr's GoPro footage is now [on Flickr](https://www.flickr.com/photos/124891723@N05/sets/72157644397212878/)!
