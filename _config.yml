@@ -20,7 +20,7 @@ author:
 paginate:         10
 
 # Custom vars
-version:          0.2.0
+version:          0.2.1
 
 github:
   repo:           https://github.com/fooforge/bazforge.com
